@@ -1,0 +1,37 @@
+body {
+    display: flex;
+    flex-direction: column;
+    background: white;    
+    min-height: 100vh;
+    text-align: center;
+    margin: 0;
+    font-family: Roboto, sans-serif;
+}
+
+.header, .footer {
+    background: #1F2937;
+    color: #F9FAF8;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.info {
+    color: #1F2937;
+    flex: 1;
+}
+
+.quote {
+    background: #E5E7EB;
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: light;
+    font-style: italic;
+}
+
+ul {
+    list-style: none;
+}
+
