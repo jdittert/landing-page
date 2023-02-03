@@ -56,6 +56,10 @@ button {
     font-weight: 900;
 }
 
+.footer {
+    padding: 12px 0px;
+}
+
 .info {
     color: #1F2937;
     flex: 1;
